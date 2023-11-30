@@ -36,6 +36,7 @@ import uz.ictschool.roomcontact1.ui.theme.RoomContact1Theme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
+        //https://github.com/anacoimbrag/contacts-android.git
         super.onCreate(savedInstanceState)
         setContent {
             RoomContact1Theme {
